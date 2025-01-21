@@ -4,12 +4,12 @@
 ## Skill Stacks
 
 ### JavaScript
-- [데이터 타입](https://velog.io/@februaar/%EC%BD%94%EC%96%B4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-1%EC%9E%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85)
-- [얕은 복사와 깊은 복사](https://velog.io/@februaar/Core-Javascript-1%EC%9E%A5)
-- [불변 객체](https://velog.io/@februaar/Core-JavaScript-01%EC%9E%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%B5%EC%82%AC0)
-- [실행 컨텍스트](https://velog.io/@februaar/JavaScript-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
-- [실행 컨텍스트 구조](https://velog.io/@februaar/JavaScript-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EA%B5%AC%EC%A1%B0)
 - [함수 선언문과 함수 표현식](https://velog.io/@februaar/JavaScript-%ED%95%A8%EC%88%98-%EC%84%A0%EC%96%B8%EB%AC%B8%EA%B3%BC-%ED%95%A8%EC%88%98-%ED%91%9C%ED%98%84%EC%8B%9D)
+- [실행 컨텍스트 구조](https://velog.io/@februaar/JavaScript-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EA%B5%AC%EC%A1%B0)
+- [실행 컨텍스트](https://velog.io/@februaar/JavaScript-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
+- [불변 객체](https://velog.io/@februaar/Core-JavaScript-01%EC%9E%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%B5%EC%82%AC0)
+- [얕은 복사와 깊은 복사](https://velog.io/@februaar/Core-Javascript-1%EC%9E%A5)
+- [데이터 타입](https://velog.io/@februaar/%EC%BD%94%EC%96%B4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-1%EC%9E%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85)
 
 ### TypeScript
 - [유틸리티 타입(Partial, Record, Pick, Omit)](https://velog.io/@februaar/TypeScript-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-%ED%83%80%EC%9E%85Partial-Record-Pick-Omit)
