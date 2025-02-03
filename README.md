@@ -17,6 +17,7 @@
 - [왜 유틸리티 타입을 알아야 할까?(Pick, Omit, Partial, Record)](https://velog.io/@februaar/TypeScript-%EC%99%9C-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0%EA%B9%8CPick-Omit-Partial-Record)
   
 ### React
+- [CRA is deprecated](https://velog.io/@februaar/CRA-is-deprecated)
 - [Vite로 프로젝트 세팅하기(with ESLint(Airbnb) + Prettier)](https://velog.io/@februaar/React-Vite%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0with-ESLintAirbnb-Prettier)
 
 ### Next.js
